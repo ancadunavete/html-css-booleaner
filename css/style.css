@@ -1,12 +1,28 @@
 html {
     font-family: 'Times New Roman', Times, serif;
 }
-#hero {
-    background: url(../img/pattern.png); background-repeat: repeat
-    background-size: cover;
-    width: 100%;
+#hero {    
+    background: url(../img/pattern.png);
+    background-color: rgb(0, 136, 255);
+    position: cover;
 }
 
 .highlight {
     background-color: #f0d32e; /* Light yellow */
+}
+
+.thebo {
+    text-align: left;
+    color: aliceblue;
+    outline: black; 
+    font-size: 30px
+}
+
+.makeitblue {
+   color: rgb(0, 136, 255); 
+}
+
+.text-overlay {
+    color: aliceblue;
+    position: absolute;
 }
