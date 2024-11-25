@@ -26,3 +26,20 @@ html {
     color: aliceblue;
     position: absolute;
 }
+
+.bluerow {
+    background-color: blue;
+    color: aliceblue;
+} 
+
+.lightbluerow {
+    background-color: aqua;
+} 
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+
